@@ -23,11 +23,11 @@ An autonomous IoT solution for rural energy optimization featuring:
 ---
 
 ## 📈 My Interests
-- 🛰️ **Embedded Systems:** Architecting smart hardware solutions.
-- 🐍 **Data Analytics:** Solving complex problems with Python & DSA.
-- 🚗 **Automotive Tech:** Exploring the future of EV and sub-compact SUVs.
-- 🏏 **Strategy:** Analyzing performance metrics (Fantasy League enthusiast).
-
+- ☁️ **Cloud Engineering:** Designing scalable architectures and exploring AWS/Azure for IoT data management.
+- 🛰️ **Embedded Systems:** Architecting smart hardware solutions and edge computing.
+- 🐍 **Data Analytics:** Solving complex problems through Python, DSA, and automated workflows.
+- 🏏 **Strategy:** Analyzing performance metrics and data-driven decision making.
+- 
 ---
 
 ## 📫 Let's Connect
